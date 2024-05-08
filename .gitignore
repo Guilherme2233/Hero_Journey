@@ -71,7 +71,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Ignorar arquivos nas pastas do executável de 32 e 64 bits
-**/Hero Journey-32/*
-**/Hero Journey-64/*
 
