@@ -22,7 +22,7 @@ https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426
 
 <ol>
   <li>Open the "Downloads" folder </li>
-  <li>Click on the folder HeroJourney-project</li>
+  <li>Click on the folder Heros'Journey-project</li>
   <li>Click on "view Raw" to start the download.</li>
   <li>After the download is complete, click on the file to run it (Your computer will likely flag it as malicious, but this is because GitHub is marked as an unrecognized source by the computer. Confirm the download anyway).</li>
   <li>Extract the folder with all the files to a folder of your choice.</li>
