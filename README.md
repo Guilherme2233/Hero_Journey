@@ -30,10 +30,4 @@ https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426
 
 <h2>Tools and Language Used</h2>
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Badge do Visual Studio Code">
-  <img src="https://img.shields.io/badge/Unity_Engine-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Linguagem C#">
-</div>
-
-
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Unity Engine](https://img.shields.io/badge/Unity_Engine-100000?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
