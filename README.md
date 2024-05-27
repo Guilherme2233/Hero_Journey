@@ -16,19 +16,6 @@ https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426
   <li>Extract the folder with all the files to a folder of your choice.</li>
   <li>Enter the folder you extracted and click on 'Hero's Journey' file and confirm execution.</li>
 </ol>
-
-
-<h2>How to Download the Project</h2>
-
-<ol>
-  <li>Open the "Downloads" folder </li>
-  <li>Click on the folder Heros'Journey-project</li>
-  <li>Click on "view Raw" to start the download.</li>
-  <li>After the download is complete, click on the file to run it (Your computer will likely flag it as malicious, but this is because GitHub is marked as an unrecognized source by the computer. Confirm the download anyway).</li>
-  <li>Extract the folder with all the files to a folder of your choice.</li>
-  <li>Enter unity Hub and click on "Add" then "Add project from disk" and chose the folder you extracted</li>
-</ol>
-
 <h2>Improvements to be made</h2>
 
 <ol>
@@ -43,10 +30,4 @@ https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426
 
 <h2>Tools and Language Used</h2>
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Badge do Visual Studio Code">
-  <img src="https://img.shields.io/badge/Unity_Engine-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Linguagem C#">
-</div>
-
-
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Unity Engine](https://img.shields.io/badge/Unity_Engine-100000?style=for-the-badge&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
