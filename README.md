@@ -1,7 +1,7 @@
 <H1 align = "center"> Hero Journey </H1> 
 
 https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426c-bb50-75d0f1670955
-<H2>Status: Developing ⚠️</H2>
+<H2>STATUS: Developing ⚠️</H2>
 <p>Last update: 10/05/2024</p>
 
 
