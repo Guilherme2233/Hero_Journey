@@ -3,6 +3,7 @@
 https://github.com/Guilherme2233/Hero_Journey/assets/104692870/a09af299-e7a5-426c-bb50-75d0f1670955
 <H2>STATUS: Developing ⚠️</H2>
 <p>Last update: 10/05/2024</p>
+<p>The Scripts made by me can be found in: HeroJourney> CodigoFonte> Hero'sJourney> Assets> Scripts.</p>
 
 
 <h2>How to Download the Game</h2>
